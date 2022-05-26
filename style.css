@@ -99,7 +99,7 @@ body, html {
 
 .pg-image {
   /* The image used */
-  background-image: url("https://www.google.com/url?sa=i&url=http%3A%2F%2Fmurakaminelson.com%2Fbarrows-hall-1&psig=AOvVaw1IvYi2de-LVW9BLm3So9fN&ust=1653406204152000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNinsJ_49fcCFQAAAAAdAAAAABAJ");
+  background-image: url("https://cdn.britannica.com/13/77413-050-95217C0B/Golden-Gate-Bridge-San-Francisco.jpg");
   
   /* Add the blur effect */
   filter: blur(8px);
